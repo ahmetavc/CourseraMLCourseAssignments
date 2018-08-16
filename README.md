@@ -15,7 +15,7 @@ First part is without vectorization, second part is with vectorization.
 Data visualization and logistic regression from scratch.
 First part is without regularization, second part is with regularization.
 
-### 3-) Multi-Class classification
+### 3-) Multi-Class classification and Recognizing Hand-Written digits with Neural-Network
 Logistic regression with neural network to recognize hand-written digits.
 Neural network part is missing because the optimizing funtion that the instructor was using for this part was in matlab library, so I couldn't be able to figure it out for python.
 
